@@ -1,0 +1,11 @@
+   1) Edit odbc_example.cpp
+      DO:  more $HOME/.my.cnf to see your MySQL username and  password
+      CHANGE:  MYUSERNAME  and   MYMYSQLPASSWORD  in the main function of
+                the program to your username and mysql password 
+   2) RUN: ./runpython.sh
+      This installs the tables from the HW3 solution and does the inserts.
+          - if you like your own hw3 solution, comment out or delete that line
+            from runpython.sh
+      Then runs the python program.
+      The program has functions that are tested to do inserts, deletes, and updates of
+      records from the HW3 tables.
