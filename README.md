@@ -6,7 +6,7 @@ requirements:
 - tabulate
 - mysql
 
-Function defined and its description:
+Function defined and its description as required for class works:
 -	open_database() : opens the database 
 - printFormat(): format the results of sql operation
 - executeSelect(): performs the operation defined by the query, displays the result in terminal and returns the result.
